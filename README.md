@@ -178,7 +178,7 @@ Even selected text switches just between **selected** layouts, though if you lik
 - Added feature to highlight Scroll Lock when language 1 is active.
 
 **v1.4.2.1**<br/>
-- Added feature to disable check for update at startup.
+- Added option to disable check for update at startup.
 
 **v1.4.3.0**<br/>
 - Rewrited convert line feature to support new feature, Convert Multiple last words.
